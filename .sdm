@@ -1,0 +1,22 @@
+# py_no_orm_fastapi_todolist_sqlite3
+
+# sdm root-file, ensure lower case:
+
+--- sdm
+
+# sdm/php.dal
+# sdm/java.dal
+# sdm/cpp.dal
+sdm/python.dal
+# sdm/go.dal
+
+# an optional title in the end:
+
+# <path>|title
+
+---
+
+# my favorites:
+
+README.md
+
