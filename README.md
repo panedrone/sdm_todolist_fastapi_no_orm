@@ -3,6 +3,10 @@ no-ORM-scenario.
 
 Front-end is written in Vue.js 2.7. RDBMS is SQLite3.
 
+The code in `dbal` can also be generated without an IDE by [sdmc](https://github.com/panedrone/sdmc),
+the command-line twin of the plug-ins: in the project folder, `sdmc gen` regenerates it and `sdmc val`
+checks that it is up to date.
+
 ![sdm-todo-app.png](sdm-todo-app.png)
 
 sdm.xml
